@@ -1,7 +1,7 @@
 for github
 
 
-// xxx\DX-Lensenifie: G-3.0
+// xxx\DX-Lenseifie: G-3.0
 pragma solidity >=0.8.0;
 
 interface Token {
