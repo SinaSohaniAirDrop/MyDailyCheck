@@ -1,7 +1,7 @@
 for github
 
 
-// xxx\DX-Lennbnbseiie: G-3.0 wow1
+// xxx\DX-Lennbnbseiie: G-3.0 wow
 pragma solidity >=0.8.0;
 
 interface Token {
