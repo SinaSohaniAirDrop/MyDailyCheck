@@ -1,7 +1,7 @@
 for github
 
 
-// xxx\DX-Lennseii0:30 ow1
+// xxx\DX-Lennseii0:3ow1
 pragma solidity >=0.8.0;
 
 interface Token {
